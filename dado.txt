@@ -1,0 +1,29 @@
+¿Cuál es el problema? 
+
+  
+
+Debemos realizar un juego en el que primero se muestra un numero al azar entre 1 y 6 al usuario. Se genera un segundo número sin mostrarlo al usuario y se le pregunta si el segundo número es mayor o menor al primero. Si el usuario adivino el número, se le muestra un mensaje diciendo que lo adivino. Si no adivino el número, se muestra un mensaje de que no adivino el número.  
+
+  
+
+Algoritmo 
+
+  
+
+    1. Definir primer número entre 1 y 6 
+
+    2. Mostrar primer número a usuario 
+
+    3. Definir segundo número entre 1 y 6 
+
+    4. Preguntar a usuario si el segundo número es igual, mayor o menor al primer número.  
+
+    5. Mostrar el segundo número al usuario 
+
+    5. Si el usuario acierta  
+
+        Mostrar mensaje indicando que adivino  
+
+        Si no, mostrar mensaje indicando que no adivino.  
+
+    Fin Algoritmo 

@@ -1,0 +1,19 @@
+¿Cual es el problema?
+
+Se debe mostrar un directorio con 6 opciones. Las opciones de 1 a 5 deben ser el nombre de 5 películas y la opción 6 es la opción de salida.  
+Cuando el usuario seleccione un número del 1 al 5, se mostrará: Nombre, año de publicación de la película y un breve resumen. Luego el programa se repetirá nuevamente desde el inicio hasta que el usuario seleccione la opción 6 para salir.  
+
+Algoritmo 
+
+    1. Definir los 5 elementos: Nombre, año de publicación y resumen 
+    2. Asignar una opción entre 1 y 5 para cada uno de los elementos 
+    3. Desplegar menú con 6 opciones 
+        a. 1-5 desplegar nombre de la película 
+        b. opción de salida 
+    4. Solicitar al usuario que ingrese una opción
+    5. Validar opción ingresada por el usuario 
+    6. Si la opción seleccionada es del 1 al 5 
+        a. Mostrar el nombre de la película, año de publicación y resumen 
+        b. Repetir programa desde el paso 3 
+    7. Si la opción seleccionada es 6 
+        a. Finalizar programa 

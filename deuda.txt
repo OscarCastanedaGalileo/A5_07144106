@@ -1,0 +1,73 @@
+¿Cuál es el problema? 
+
+  
+
+Debemos realizar un programa en el cual ayudemos al usuario, quien tiene una deuda con 0% intereses y un valor determinado, a encontrar 2 alternativas. 
+
+    Determinar en cuantas cuotas saldaría la deuda abonando determinada cantidad 
+
+    Determinar la cantidad a pagar para saldar la deuda en determinada cantidad de cuotas 
+
+Se le mostraran 4 opciones al usuario:  
+
+    Solicitar cantidad de la deuda  
+
+    Calcular cuotas para saldar deuda pagando determinada cantidad 
+
+    Calcular cantidad a pagar en determinada cantidad de cuotas 
+
+    Salir 
+
+Cuando el usuario ingrese la cantidad de la deuda, se le permitirá calcular y utilizar las opciones 2 y 3, de lo contrario continuará solicitando se ingrese la cantidad de la deuda.  
+
+ 
+
+Algoritmo 
+
+Mostrar opciones al usuario 
+
+Si selecciona 1 
+
+	Solicitar cantidad deuda 
+
+Si selecciona 2 
+
+	Solicitar cantidad a pagar  
+
+	Determinar cuotas  
+
+	Si no ingreso saldo deuda 
+
+		mostrar mensaje indicando requerimiendo de saldo deuda 
+
+		Reiniciar 
+
+Si selecciona 3 
+
+	Solicitar cantidad de cuotas 
+
+	Determinar cantidad a pagar por cuota 
+
+	Si no ingreso saldo deuda 
+
+		mostrar mensaje indicando requerimiendo de saldo deuda 
+
+		reiniciar  
+
+Si seleciona opcion 4  
+
+	Salir 
+
+ 
+
+	 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
